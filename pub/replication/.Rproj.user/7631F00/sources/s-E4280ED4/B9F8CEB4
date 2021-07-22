@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594290227947.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3611689789",
+    "id" : "B9F8CEB4",
+    "lastKnownWriteTime" : 1594290414,
+    "last_content_update" : 1594290414635,
+    "path" : "~/Documents/work/Projects/replication-tse/replication/replication.r",
+    "project_path" : "replication.r",
+    "properties" : {
+        "cursorPosition" : "112,0",
+        "scrollLine" : "88"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
